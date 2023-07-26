@@ -4,37 +4,30 @@
 To design a website to perform mathematical calculations in server side.
 
 ## DESIGN STEPS:
-
 ### Step 1:
+ Clone the repository from GitHub
 
-
-
-### Step 2:
-
-
+### Step 2: 
+Create Django Admin project.
 
 ### Step 3:
-
-
+ Create a New App.
 
 ### Step 4:
-
-
+ Create python programs for views and urls.
 
 ### Step 5:
-
-
+ Create a HTML file of forms.
 
 ### Step 6:
-
-Publish the website in the given URL.
+ Publish the website in the given URL.
 
 ## PROGRAM :
 
 ## OUTPUT:
-
+[!OUTPUT](output.1.jpg)
 ### Home Page:
-
+[!OUTPUT](output.2.jpg)
 
 ## Result:
-
+The program for implementing server side processing is completed successfully.
